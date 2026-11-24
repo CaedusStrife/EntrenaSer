@@ -1,0 +1,7 @@
+node_modules/
+api/bin/
+api/obj/
+*.env
+.vs/
+.idea/
+.log
